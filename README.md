@@ -1,12 +1,16 @@
 ## Hi, I'm Guilherme 👋
 
-Front-End Engineer from Brazil, currently working at F1RST Digital Services (Santander Group) in a production-critical financial environment. I specialize in building scalable front-end applications with a focus on clean architecture, maintainable code, and real-world engineering problems.
+Front-End Engineer building scalable Angular applications for Santander's digital ecosystem.
+
+---
 
 ### About me
 
-I work on Angular-based applications that power Santander's digital ecosystem. My role involves developing new features, maintaining legacy systems, troubleshooting production issues, and collaborating across engineering teams in an Agile environment.
+I'm a Front-End Engineer from Brazil, currently building and maintaining production-critical applications for Santander's digital ecosystem through F1RST Digital Services.
 
-I was promoted from Software Engineering Intern to IT Analyst I in less than a year, which speaks to my ability to learn quickly and adapt to complex technical environments. I care about understanding systems beyond the UI—building software that scales, performs well, and solves actual problems.
+After starting as a Software Engineering Intern, I was promoted to IT Analyst I in less than a year, taking on greater technical ownership and broader engineering responsibilities. My day-to-day involves developing new features, maintaining legacy systems, troubleshooting production issues, and collaborating across engineering teams in an Agile environment.
+
+I enjoy investigating production issues as much as building new features, since understanding how systems behave in the real world has become one of the most valuable parts of my engineering journey. I enjoy understanding systems beyond the user interface, investigating how applications behave in production and designing solutions that remain reliable as they evolve.
 
 ### Tech Stack
 
@@ -16,25 +20,17 @@ I was promoted from Software Engineering Intern to IT Analyst I in less than a y
 
 **Architecture:** Micro Frontends · WebView · Production Support
 
-**Infrastructure:** Kubernetes (investigation & troubleshooting)
+**Infrastructure:** Basic Kubernetes (log analysis and troubleshooting)
 
-### Currently
+### Current Focus
 
-Building personal projects to showcase my engineering skills and exploring opportunities to work remotely for international companies. Focused on writing clean, maintainable code and developing a software engineering mindset that goes beyond the interface.
-
-### What I'm working on
-
-- [ ] Developing a portfolio of real-world front-end projects
-- [ ] Deepening knowledge of scalable architecture patterns
-- [ ] Contributing to open-source projects
-- [ ] Preparing for opportunities with international engineering teams
+- Building production-quality Angular projects
+- Improving software architecture and design skills
+- Deepening knowledge of testing and maintainable front-end applications
+- Preparing for international remote opportunities
 
 ### Connect with me
 
 - **GitHub:** [@guilhermeSS-dev](https://github.com/guilhermeSS-dev)
 - **LinkedIn:** [Guilherme de Souza Silva](https://www.linkedin.com/in/guilherme-de-souza-silva-b6077822b)
 - **Portfolio:** Coming soon
-
----
-
-*Open to conversations about front-end engineering, architecture challenges, and remote opportunities.*
